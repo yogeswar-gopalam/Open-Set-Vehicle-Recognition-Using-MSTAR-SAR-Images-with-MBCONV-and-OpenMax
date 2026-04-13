@@ -1,0 +1,2 @@
+# Open-Set-Vehicle-Recognition-Using-MSTAR-SAR-Images-with-MBCONV-and-OpenMax
+This project presents a deep learning-based system for vehicle recognition using Synthetic Aperture Radar (SAR) images. The system uses a lightweight MBCONV architecture for efficient feature extraction and integrates the OpenMax algorithm for open-set recognition. Unlike traditional models, it can detect unknown inputs and classify them as UNKNOWN
